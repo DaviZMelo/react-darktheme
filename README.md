@@ -2,9 +2,9 @@
 
 A project created to test LocalStorage and React Hooks with a theme switcher.
 
+![](https://media4.giphy.com/media/aSuVvIaVW87ytaMZvh/giphy.gif)
+
 ## Installation
-
-
 
 ```bash
 - git clone git@github.com:DaviZMelo/react-darktheme.git
